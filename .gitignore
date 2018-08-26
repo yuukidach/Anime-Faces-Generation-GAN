@@ -1,0 +1,14 @@
+images_&_labels.txt
+anime_faces1/
+backups/
+getchu_samples/
+hq_anime_faces/
+logs/
+logs_wgan/
+logs_wgan_gp/
+__pycache__/
+TFrecord_output/
+train_result/
+.vscode/
+gcgan_face.png
+wgan_face.png
